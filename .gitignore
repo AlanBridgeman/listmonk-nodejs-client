@@ -123,6 +123,8 @@ dist
 .vscode-test
 
 # yarn v2
+.yarnrc.yml
+.yarn/releases
 .yarn/cache
 .yarn/unplugged
 .yarn/build-state.yml
@@ -134,3 +136,4 @@ dist
 
 # Individualized automation script
 unpublish-publish.sh
+unpublish-publish.ps1
